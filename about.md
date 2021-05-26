@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am Engineer.
+I'm an Engineer.
 
 ### More Information
 
