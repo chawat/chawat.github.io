@@ -1,4 +1,8 @@
-We are hooked on distraction: In my last post on Loneliness, I briefly went over the fact that human beings cannot simply be by themselves. We need something, some form of entertainment, or someone to help us ignore the emptiness of our lives. Most of us live our lives guided by societal norms which more or less looks like a task list given below (Indian perspective):
+---
+layout: post
+title: We are hooked on Distraction
+---
+In my last post on Loneliness, I briefly went over the fact that human beings cannot simply be by themselves. We need something, some form of entertainment, or someone to help us ignore the emptiness of our lives. Most of us live our lives guided by societal norms which more or less looks like a task list given below (Indian perspective):
 
   - go to school/be good at science,
   - get an engineering/medical degree, 
